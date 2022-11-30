@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="e66d30d7-7c4d-4409-97de-64576da2c456" name="restElegidos Mapping">
+      <data-sources db="0a4ae2f7-952e-4ff2-98e8-b386585b0f25" ddl="8e7ed90d-a34c-49b7-99f4-493139be2579" />
+    </mapping>
+  </component>
+</project>
